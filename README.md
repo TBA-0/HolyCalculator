@@ -1,4 +1,5 @@
 # HolyCalculator
+Goofy project made out of boredom<br>
 v.1.0 - CMD Version<br>
 v.1.1 - GUI Version
 
