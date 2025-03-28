@@ -1,7 +1,6 @@
 # HolyCalculator
 Goofy project made out of boredom<br>
-v.1.0 - CMD Version<br>
-v.1.1 - GUI Version
-
 ## Functions
-Add / Subtract / Multiply / Divide / Power / Modulo
+v.1.0 - Heavenly Edition (Command Line) - Add / Subtract / Multiply / Divide / Power / Modulo<br>
+v.1.1 - Heretic Edition (GUI) - broken <br>
+v.1.2 - Atheist Edition (Scientific) - sin / cos / tan / log / e / sqrt / abs <br>
